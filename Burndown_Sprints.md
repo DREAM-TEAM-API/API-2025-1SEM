@@ -110,7 +110,7 @@
   - ✅ Limitar entrada para evitar overflow. (Prioridade: Média)
   - ✅ Testar com valores extremos. (Prioridade: Baixa)
 
-**Integração no Menu**  
+**Modificação no Menu**  
 + Responsável: Dupla 4 (Daniel e Matheus)  
 + Tarefas:
   - ✅ Adicionar 3 novas opções ao menu. (Prioridade: Alta)
