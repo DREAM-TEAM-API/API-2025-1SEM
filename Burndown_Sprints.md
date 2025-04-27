@@ -1,6 +1,13 @@
 ### **Tarefas Executadas **
 ### **Sprint 1 **
 
+### **Gráfico de Progresso**
+
+![Burndown Chart da Sprint 1]![image](https://cdn.discordapp.com/attachments/1357165662954590283/1365724481657766072/IMG-20250329-WA00731.jpg?ex=680e598a&is=680d080a&hm=eb28c8344c45f9e8c07e540358667677230a7d38dab123c096540e12de27c0f4&)
+
+
+*Figura 1: Evolução do progresso real vs. ideal durante a Sprint 1*
+
 **Menu Interativo**
 + Responsável: Dupla 1 (Brenda e João)
 + Tarefas:
@@ -76,17 +83,17 @@
 | 22/03/2025   | 5                 | 5          | 8     |
 | 28/03/2025   | 0                 | 1          | 0     |
 
-### **Gráfico de Progresso**
-
-![Burndown Chart da Sprint 1]![image](https://cdn.discordapp.com/attachments/1357165662954590283/1365724481657766072/IMG-20250329-WA00731.jpg?ex=680e598a&is=680d080a&hm=eb28c8344c45f9e8c07e540358667677230a7d38dab123c096540e12de27c0f4&)
-
-
-*Figura 1: Evolução do progresso real vs. ideal durante a Sprint 1*
-
 
 ### **Sprint 2 **
 
 ### **Burndown Sprint 2**
+
+### **Gráfico de Progresso**
+
+![Burndown Chart da Sprint 2]![image](https://cdn.discordapp.com/attachments/1357165662954590283/1365724772796993577/IMG-20250426-WA0018.jpg?ex=680e59cf&is=680d084f&hm=39ba45af084fb878121da535963a1a56493278c90b40dfafffb4320bd559e827&)
+
+
+*Figura 2: Evolução do progresso real vs. ideal durante a Sprint 2*
 
 **Sequência Alternada**  
 + Responsável: Dupla 1 (Leonardo e Ana)  
@@ -150,10 +157,4 @@
 | 15/04/2025   | 0                 | 2          | 1     |
 | 19/04/2025   | 0                 | 1          | 0     |
 
-### **Gráfico de Progresso**
-
-![Burndown Chart da Sprint 2]![image](https://cdn.discordapp.com/attachments/1357165662954590283/1365724772796993577/IMG-20250426-WA0018.jpg?ex=680e59cf&is=680d084f&hm=39ba45af084fb878121da535963a1a56493278c90b40dfafffb4320bd559e827&)
-
-
-*Figura 2: Evolução do progresso real vs. ideal durante a Sprint 2*
 
