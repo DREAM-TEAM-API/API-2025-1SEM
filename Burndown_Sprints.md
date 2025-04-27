@@ -1,4 +1,5 @@
-### **Tarefas Executadas na Sprint 1 e Prioridades Definidas**
+### **Tarefas Executadas **
+### **Sprint 1 **
 
 **Menu Interativo**
 + Responsável: Dupla 1 (Brenda e João)
@@ -77,6 +78,87 @@
 
 ### **Gráfico de Progresso**
 
-![Burndown Chart da Sprint 1](https://github.com/user-attachments/assets/bdd8a89d-6ae9-4597-a675-49b4824bcd95)
+![Burndown Chart da Sprint 1](![image](https://github.com/user-attachments/assets/c21955ca-1f78-47f6-bcd8-453432150848)
+)
+
+
 
 *Figura 1: Evolução do progresso real vs. ideal durante a Sprint 1*
+
+
+### **Sprint 2 **
+
+### **Burndown Sprint 2**
+
+**Sequência Alternada**  
++ Responsável: Dupla 1 (Leonardo e Ana)  
++ Tarefas:
+  - ✅ Implementar fórmula de alternância de sinais. (Prioridade: Alta)
+  - ✅ Testar com números positivos e negativos. (Prioridade: Alta)
+  - ✅ Documentar no manual. (Prioridade: Média)
+  - 🔄 Otimizar o cálculo para grandes sequências. (Prioridade: Baixa)
+
+**Sequência de Quadrados Perfeitos**  
++ Responsável: Dupla 2 (Sara e Samuel)  
++ Tarefas:
+  - ✅ Gerar sequência crescente de quadrados. (Prioridade: Alta)
+  - ✅ Validar entrada do usuário (números naturais). (Prioridade: Média)
+  - ✅ Adicionar exemplos no manual. (Prioridade: Média)
+
+**Sequência de Cubos**  
++ Responsável: Dupla 3 (Brenda e João)  
++ Tarefas:
+  - ✅ Implementar cálculo de cubos (n³). (Prioridade: Alta)
+  - ✅ Limitar entrada para evitar overflow. (Prioridade: Média)
+  - ✅ Testar com valores extremos. (Prioridade: Baixa)
+
+**Integração no Menu**  
++ Responsável: Dupla 4 (Daniel e Matheus)  
++ Tarefas:
+  - ✅ Adicionar 3 novas opções ao menu. (Prioridade: Alta)
+  - ✅ Atualizar instruções de navegação. (Prioridade: Média)
+  - 🔄 Revisar compatibilidade com operações existentes. (Prioridade: Baixa)
+
+### **Critérios Gerais de Aceitação**
++ ✔️ Todas as sequências implementadas sem erros de cálculo  
++ ✔️ Menu atualizado com 7 operações funcionando  
++ ✔️ Manual do usuário revisado e expandido  
++ ✔️ Testes realizados para diferentes tipos de entradas  
+
+### **Acompanhamento das Tarefas Concluídas por Data e Duplas**
+
+| Data         | Dupla/Equipe       | Tarefas Concluídas |
+|--------------|--------------------|-------------------:|
+| 08/04/2025   | Dupla 2             | 1                  |
+| 10/04/2025   | Dupla 1 + Dupla 2   | 3                  |
+| 12/04/2025   | Dupla 3 + Dupla 4   | 2                  |
+| 13/04/2025   | Dupla 3             | 2                  |
+| 14/04/2025   | Dupla 2             | 2                  |
+| 15/04/2025   | Dupla 1             | 2                  |
+| 16/04/2025   | Dupla 4             | 2                  |
+| 17/04/2025   | Dupla 3             | 1                  |
+| 19/04/2025   | Equipe completa     | 1                  |
+
+### **Tabela de Burndown Progresso de Atividades Sprint 2**
+
+| Data         | Tarefas Restantes | Concluídas | Ideal |
+|--------------|------------------:|-----------:|------:|
+| 07/04/2025   | 12                | 0          | 12    |
+| 08/04/2025   | 11                | 1          | 11    |
+| 10/04/2025   | 8                 | 3          | 9     |
+| 12/04/2025   | 6                 | 2          | 7     |
+| 13/04/2025   | 4                 | 2          | 5     |
+| 14/04/2025   | 2                 | 2          | 3     |
+| 15/04/2025   | 0                 | 2          | 1     |
+| 19/04/2025   | 0                 | 1          | 0     |
+
+### **Gráfico de Progresso**
+
+![Burndown Chart da Sprint 1](![image](https://github.com/user-attachments/assets/604bfdc4-85c8-4a9e-8f81-63e4f302c6d7)
+)
+
+
+
+
+*Figura 2: Evolução do progresso real vs. ideal durante a Sprint 2*
+
