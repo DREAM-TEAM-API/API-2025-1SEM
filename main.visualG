@@ -1,0 +1,186 @@
+Algoritmo "ProjetoApi"
+
+var
+   op,termo, comeco : Real
+   fatorial,num1,resultado,i, quantidade_numeros_primos, numero_atual, contador_primos, divisor, eh_primo, x, resultadocubo, numcubo, n, nQ: inteiro
+
+Inicio
+   op<- 1
+
+   Enquanto (op = 1) faca //Estrutura de repetição para o menu aparecer várias vezes
+
+      // Exibe o menu inicial
+      escreval("+---------------------------------------+")
+      escreval("¦ » MENU - SEQUÊNCIAS MATEMÁTICAS «     ¦")
+      escreval("+-----------------------------------    ¦")
+      escreval("¦  1  |  Números Triangulares           ¦")
+      escreval("¦  2  |  Sequência de Números Primos    ¦")
+      escreval("¦  3  |  Sequência Fatorial             ¦")
+      escreval("¦  4  |  Sequência de Cubos             ¦")
+      escreval("¦  5  |  Sequência Alternada            ¦")
+      escreval("¦  6  |  Sequência Quadrados Perfeitos  ¦")
+      escreval("¦  0  |  Sair                           ¦")
+      escreval("+---------------------------------------¦")
+      escreval("¦      By DREAM TEAM • Est. 2025        ¦")
+      escreval("+---------------------------------------+")
+
+      Leia(op)
+
+      Enquanto (op > 6) ou (op < 0) faca  //Limitar a escolha das opções
+         Escreval("De 0 a 6 apenas")
+         Leia(op)
+      Fimenquanto
+
+      se (op = 0) entao
+      fimse
+      limpatela
+
+      escolha op
+      caso 1
+         escreval("===================================")
+         escreval("     NÚMEROS TRIÂNGULARES   ")
+         escreval("===================================")
+         escreval ("Informe o valor de sequências: ")//solicita que o usuário informe a quatidade de sequências que deseja
+         leia (num1)//faz a leitura da variável
+
+         resultado <- num1*(num1 +1)\ 2)//a variável resultado recebe a operação lógica
+         //é exposto na tela a frase contendo o resultado da operação contido na variável (resultado)
+         escreval ("A quantidade de triângulos possíveis será de: ", resultado , " triângulos")
+
+         escreval("=====================================")
+         escreval("     FIM DE NÚMEROS TRIÂNGULARES   ")
+         escreval("=====================================")
+
+      caso 2
+         escreval("===================================")
+         escreval("     SEQUÊNCIA DE NÚMEROS PRIMOS   ")
+         escreval("===================================")
+
+         // Solicita ao usuário a quantidade de números primos desejados
+         escreva("Digite a quantidade de números primos que deseja gerar: ")
+         leia(quantidade_numeros_primos)
+
+         numero_atual <- 2  // Primeiro número a ser testado
+         contador_primos <- 0 // Conta quantos primos já foram encontrados
+
+         // Loop para encontrar os números primos
+         enquanto contador_primos < quantidade_numeros_primos faca
+            eh_primo <- 1 // Assume que o número é primo
+
+            // Verifica se o número atual é primo
+            para i de 2 ate numero_atual - 1 faca
+               se (numero_atual mod i = 0) entao
+                  eh_primo <- 0 // O número não é primo
+               fimse
+            fimpara
+
+            // Se for primo, exibe e incrementa o contador
+            se eh_primo = 1 entao  //eh_primo 1 para verdadeiro, 0 para falso
+               escreval(numero_atual, " ")
+               contador_primos <- contador_primos + 1
+            fimse
+
+            numero_atual <- numero_atual + 1 // Testa o próximo número
+         fimenquanto
+         escreval("=====================================")
+         escreval("     FIM DA SEQUÊNCIA DE PRIMOS   ")
+         escreval("=====================================")
+
+      caso 3
+         escreval("===================================")
+         escreval("        SEQUÊNCIA FATORIAL  ")
+         escreval("===================================")
+
+         // Resultado é declarado como 1 para as multiplicações que serão feitas em fatorial
+         resultado <- 1
+         escreval ("Por favor, insira um número inteiro, não negativo. (E menor que 13):")
+         leia (fatorial)
+         // Estrutura de repetição enquanto utilizada para evitar números não compativeis com o programa
+         enquanto (fatorial > 12) ou (fatorial < 0) faca
+            escreval("Este programa não suporta esse número. Por favor, tente novamente.")
+            leia (fatorial)
+         fimenquanto
+         // Segunda estrutura de repetição, utilizada para calcular o fatorial do número utilizado
+         enquanto fatorial >= 1 faca
+            resultado <- (resultado * fatorial)
+            fatorial <- (fatorial - 1)
+         fimenquanto
+         escreval (resultado)
+
+         escreval("=====================================")
+         escreval("     FIM DA SEQUÊNCIA FATORIAL   ")
+         escreval("=====================================")
+
+      caso 4
+         escreval("===================================")
+         escreval("        SEQUÊNCIA DE CUBOS  ")
+         escreval("===================================")
+
+         escreval("Digite o número de cubos desejável:")
+         leia(numcubo)
+
+         para x de 1 ate numcubo faca
+            resultadocubo <- x*x*x
+            escreval(resultadocubo)
+         fimpara
+
+         escreval("=====================================")
+         escreval("     FIM DA SEQUÊNCIA DE CUBOS   ")
+         escreval("=====================================")
+
+      caso 5
+         escreval("===================================")
+         escreval("        SEQUÊNCIA ALTERNADA  ")
+         escreval("===================================")
+
+         escreval("Quantos termos da sequência alternada de pares você deseja? ")
+         leia(n)
+         // usuario informa valor icinial da sequencia. sendo negativo ou positivo
+         escreval("Qual o numero inicial da sequencia? ")
+         leia(comeco)
+         // calculo da sequancia ate o numero de termos informado pelo usuario
+         para i de 1 ate n faca
+            termo <- (-1)^(i + 1) * (comeco * i)
+            escreva(termo, " ") // impressao da sequencia
+         fimpara
+         escreval ("")
+         escreval("=====================================")
+         escreval("     FIM DA SEQUÊNCIA DE ALTERNADA   ")
+         escreval("=====================================")
+
+      caso 6
+         escreval("===================================")
+         escreval("   SEQUÊNCIA QUADRADOS PERFEITOS   ")
+         escreval("===================================")
+
+         // Seção de Comandos, procedimento, funções, operadores, etc...
+         escreval ("Digite a quantidade de numeros que deseja que apareça")
+         leia (i)
+         para n de 1 ate i faca
+            nQ <- n * n
+            escreval (nQ)
+         fimpara
+         escreval("=====================================")
+         escreval("     FIM DA QUADRADOS PERFEITOS    ")
+         escreval("=====================================")
+
+      fimescolha
+
+      repita
+         Escreval("Deseja continuar no programa? (0 para CONTINUAR, 1 para SAIR)")
+         leia(op)
+      ate (op = 0) ou (op = 1)  // Garante que só aceita 0 ou 1
+
+      // Lógica invertida para controle do loop principal
+      se op = 0 entao     // Se digitou 0 (quer CONTINUAR)
+         op <- 1          // Mantém op=1 para continuar no loop
+      senao               // Se digitou 1 (quer SAIR)
+         op <- 0          // Muda op para 0 para sair do loop
+         Escreval("=====================================")
+         Escreval("    DREAM TEAM AGRADECE, ATÉ MAIS!   ")
+         Escreval("=====================================")
+      fimse
+
+
+      Fimenquanto
+      fimalgoritmo
