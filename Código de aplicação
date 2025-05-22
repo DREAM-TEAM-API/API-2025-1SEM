@@ -237,6 +237,27 @@ Inicio
          escreval("=====================================")
          escreval("   FIM DE SEQUENCIA DE TRIBONACCI    ")
          escreval("=====================================")
+caso 9
+         escreval("===================================")
+         escreval("      SEQUÊNCIA DE FIBONACCI       ")
+         escreval("===================================")
+
+         Escreval("Digite a quantidade de sequências desejada")
+         leia(n)
+
+         a <- 1
+         b <- 1
+
+         para i de 1 ate n faca
+            escreval(a, " ")
+            temp <- a + b
+            a <- b
+            b <- temp
+         fimpara
+
+         escreval("=====================================")
+         escreval("   FIM DE SEQUENCIA DE FIBONACCI     ")
+         escreval("=====================================")
 
       fimescolha
 
