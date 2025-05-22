@@ -1,6 +1,6 @@
 # API-2025-1SEM
-(![WhatsApp Image 2025-04-24 at 19 49 48 (1)](https://github.com/user-attachments/assets/681348f2-8bae-4974-9436-dc3b933e34b2)
-)
+![WhatsApp Image 2025-04-24 at 19 49 48 (1)](https://github.com/user-attachments/assets/681348f2-8bae-4974-9436-dc3b933e34b2)
+
 
 
 <div align="center">
