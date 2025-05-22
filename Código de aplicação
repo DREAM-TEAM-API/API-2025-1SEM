@@ -167,6 +167,35 @@ Inicio
          escreval("     FIM DA QUADRADOS PERFEITOS    ")
          escreval("=====================================")
 
+      caso 7
+         escreval("===================================")
+         escreval("       SEQUÊNCIA GEOMÉTRICA        ")
+         escreval("===================================")
+
+         //Usuario informara o primeiro numero da sequencia e sera lido pelo programa
+         escreva ("digite o primeiro numero da sequência: ")
+         leia (n1)
+
+         //Usuario informara o valor de q da progressão sequencial e sera lido pelo programa
+         escreva ("digite a razão: ")
+         leia (q)
+
+         //Usuário informa a quantidade de elementos da sequência (sequencia) e sera lido pelo programa
+         escreva ("quantos números da sequência deseja: ")
+         leia(sequencia)
+
+         escreval ("os", sequencia, " primeiros numeros serão: ")
+         //a funcao para ira imprimir os numeros da sequencia e calcula os valores seguintes da sequencia
+         para i de 1 ate sequencia faca
+            escreval (n1) //imprimir todos os numeros da sequncia na tela começando pelo numero inicial
+            n1 <- n1*q //calculo do proximo numero da sequencia
+         fimpara
+
+         escreval("=====================================")
+         escreval("     FIM DE SEQUÊNCIA GEOMÉTRICA     ")
+         escreval("=====================================")
+
+
       fimescolha
 
       repita
