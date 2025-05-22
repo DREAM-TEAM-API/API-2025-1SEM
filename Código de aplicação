@@ -29,8 +29,8 @@ Inicio
 
       Leia(op)
 
-      Enquanto (op > 6) ou (op < 0) faca  //Limitar a escolha das opções
-         Escreval("De 0 a 6 apenas")
+      Enquanto (op > 9) ou (op < 0) faca  //Limitar a escolha das opções
+         Escreval("De 0 a 9 apenas")
          Leia(op)
       Fimenquanto
 
