@@ -1,8 +1,8 @@
 Algoritmo "ProjetoApi"
 
 var
-   op,termo, comeco : Real
-   fatorial,num1,resultado,i, quantidade_numeros_primos, numero_atual, contador_primos, divisor, eh_primo, x, resultadocubo, numcubo, n, nQ: inteiro
+  op,termo,comeco,n1,q : Real
+  fatorial,num1,resultado,i, quantidade_numeros_primos, numero_atual, contador_primos, divisor, eh_primo, x, resultadocubo, numcubo, n, nQ,sequencia,t0,t1,t2,t3,a,b,temp: inteiro
 
 Inicio
    op<- 1
