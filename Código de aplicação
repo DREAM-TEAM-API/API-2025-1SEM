@@ -195,6 +195,48 @@ Inicio
          escreval("     FIM DE SEQUÊNCIA GEOMÉTRICA     ")
          escreval("=====================================")
 
+      caso 8
+         escreval("===================================")
+         escreval("      SEQUÊNCIA DE TRIBONACCI      ")
+         escreval("===================================")
+         // Validação da entrada
+         repita
+            escreval("Por favor, digite um número entre 0 e 37 para exibir a sequência Tribonacci até a quantidade de termos selecionados:")
+            leia(n)
+
+            se (n < 0) ou (n > 37) entao
+               escreval("Valor inválido!")
+
+            fimse
+         ate (n >= 0) e (n <= 37)
+
+         // Inicialização dos termos
+         t0 <- 0
+         t1 <- 0
+         t2 <- 1
+
+         // Exibição dos termos
+         se n = 0 entao
+            escreval(t0)
+         senao
+            escreval(t0)
+            escreval(t1)
+
+            se n >= 2 entao
+               escreval(t2)
+
+               para i de 3 ate n faca
+                  t3 <- t0 + t1 + t2
+                  escreval(t3)
+                  t0 <- t1
+                  t1 <- t2
+                  t2 <- t3
+               fimpara
+            fimse
+         fimse
+         escreval("=====================================")
+         escreval("   FIM DE SEQUENCIA DE TRIBONACCI    ")
+         escreval("=====================================")
 
       fimescolha
 
