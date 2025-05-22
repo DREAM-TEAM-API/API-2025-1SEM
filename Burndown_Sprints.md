@@ -1,13 +1,10 @@
-### **Tarefas Executadas **
-### **Sprint 1 **
+## Tarefas Executadas
+### Sprint 1
+#### Gráfico de Progresso
 
-### **Gráfico de Progresso**
-
-![Burndown Chart da Sprint 1]![image](https://cdn.discordapp.com/attachments/1357165662954590283/1365724481657766072/IMG-20250329-WA00731.jpg?ex=680e598a&is=680d080a&hm=eb28c8344c45f9e8c07e540358667677230a7d38dab123c096540e12de27c0f4&)
-
+![Burndown Chart da Sprint 1](https://github.com/DREAM-TEAM-API/API-2025-1SEM/blob/main/media/burndown%20chart%201.jpg)
 
 *Figura 1: Evolução do progresso real vs. ideal durante a Sprint 1*
-
 **Menu Interativo**
 + Responsável: Dupla 1 (Brenda e João)
 + Tarefas:
@@ -57,7 +54,7 @@
 + ✔️ Menu interativo funcional e intuitivo  
 + ✔️ Cálculos precisos em todas as sequências  
 + ✔️ Interface de entrada/saída validada  
-+ ✔️ Testes automatizados implementados  
++ ✔️ Testes automatizados implementados
 
 ### **Acompanhamento das Tarefas Concluídas por Data e Duplas**
 
@@ -73,25 +70,35 @@
 
 ### **Tabela de Burndown Progresso de Atividades Sprint 1**
 
-| Data         | Tarefas Restantes | Concluídas | Ideal |
-|--------------|------------------:|-----------:|------:|
-| 10/03/2025   | 25                | 0          | 25    |
-| 11/03/2025   | 24                | 1          | 23    |
-| 13/03/2025   | 21                | 3          | 19    |
-| 15/03/2025   | 15                | 6          | 15    |
-| 18/03/2025   | 10                | 2          | 12    |
-| 22/03/2025   | 5                 | 5          | 8     |
-| 28/03/2025   | 0                 | 1          | 0     |
+| Data        | Tarefas Planejadas (Total) | Tarefas Restantes (Acumuladas) | Tarefas Concluídas | Ideal (Tarefas Restantes) |
+|--------------|-----------------------------|---------------------------------|---------------------|----------------------------|
+| 10/03/2025  | 25                          | 25                              | 0                   | 25                         |
+| 11/03/2025  | 25                          | 24                              | 1                   | 23                         |
+| 12/03/2025  | 25                          | 24                              | 0                   | 21                         |
+| 13/03/2025  | 25                          | 21                              | 3                   | 19                         |
+| 14/03/2025  | 25                          | 21                              | 0                   | 17                         |
+| 15/03/2025  | 25                          | 15                              | 6                   | 15                         |
+| 16/03/2025  | 25                          | 12                              | 3                   | 14                         |
+| 17/03/2025  | 25                          | 12                              | 0                   | 13                         |
+| 18/03/2025  | 25                          | 10                              | 2                   | 12                         |
+| 19/03/2025  | 25                          | 10                              | 0                   | 11                         |
+| 20/03/2025  | 25                          | 10                              | 0                   | 10                         |
+| 21/03/2025  | 25                          | 10                              | 0                   | 9                          |
+| 22/03/2025  | 25                          | 5                               | 5                   | 8                          |
+| 23/03/2025  | 25                          | 5                               | 0                   | 7                          |
+| 24/03/2025  | 25                          | 5                               | 0                   | 6                          |
+| 25/03/2025  | 25                          | 5                               | 0                   | 5                          |
+| 26/03/2025  | 25                          | 3                               | 2                   | 4                          |
+| 27/03/2025  | 25                          | 1                               | 2                   | 3                          |
+| 28/03/2025  | 25                          | 0                               | 1                   | 2                          |
+| 29/03/2025  | 25                          | 0                               | 0                   | 1                          |
+| 30/03/2025  | 25                          | 0                               | 0                   | 0                          |
 
 
-### **Sprint 2 **
+### Sprint 2
+#### Gráfico de Progresso
 
-### **Burndown Sprint 2**
-
-### **Gráfico de Progresso**
-
-![Burndown Chart da Sprint 2]![image](https://cdn.discordapp.com/attachments/1357165662954590283/1365724772796993577/IMG-20250426-WA0018.jpg?ex=680e59cf&is=680d084f&hm=39ba45af084fb878121da535963a1a56493278c90b40dfafffb4320bd559e827&)
-
+![Burndown Chart da Sprint 2](https://github.com/DREAM-TEAM-API/API-2025-1SEM/blob/main/media/burndown%20chart%202.jpg)
 
 *Figura 2: Evolução do progresso real vs. ideal durante a Sprint 2*
 
@@ -146,15 +153,113 @@
 
 ### **Tabela de Burndown Progresso de Atividades Sprint 2**
 
-| Data         | Tarefas Restantes | Concluídas | Ideal |
-|--------------|------------------:|-----------:|------:|
-| 07/04/2025   | 12                | 0          | 12    |
-| 08/04/2025   | 11                | 1          | 11    |
-| 10/04/2025   | 8                 | 3          | 9     |
-| 12/04/2025   | 6                 | 2          | 7     |
-| 13/04/2025   | 4                 | 2          | 5     |
-| 14/04/2025   | 2                 | 2          | 3     |
-| 15/04/2025   | 0                 | 2          | 1     |
-| 19/04/2025   | 0                 | 1          | 0     |
+| Data        | Tarefas Planejadas (Total) | Tarefas Restantes (Acumuladas) | Tarefas Concluídas | Ideal (Tarefas Restantes) |
+|--------------|-----------------------------|---------------------------------|---------------------|----------------------------|
+| 07/04/2025  | 25                          | 25                              | 0                   | 25                         |
+| 08/04/2025  | 25                          | 24                              | 1                   | 23                         |
+| 09/04/2025  | 25                          | 24                              | 0                   | 21                         |
+| 10/04/2025  | 25                          | 21                              | 3                   | 19                         |
+| 11/04/2025  | 25                          | 21                              | 0                   | 17                         |
+| 12/04/2025  | 25                          | 17                              | 4                   | 15                         |
+| 13/04/2025  | 25                          | 14                              | 3                   | 14                         |
+| 14/04/2025  | 25                          | 12                              | 2                   | 13                         |
+| 15/04/2025  | 25                          | 9                               | 3                   | 12                         |
+| 16/04/2025  | 25                          | 7                               | 2                   | 11                         |
+| 17/04/2025  | 25                          | 5                               | 2                   | 10                         |
+| 18/04/2025  | 25                          | 3                               | 2                   | 8                          |
+| 19/04/2025  | 25                          | 1                               | 2                   | 6                          |
+| 20/04/2025  | 25                          | 0                               | 1                   | 4                          |
+| 21/04/2025  | 25                          | 0                               | 0                   | 3                          |
+| 22/04/2025  | 25                          | 0                               | 0                   | 2                          |
+| 23/04/2025  | 25                          | 0                               | 0                   | 2                          |
+| 24/04/2025  | 25                          | 0                               | 0                   | 1                          |
+| 25/04/2025  | 25                          | 0                               | 0                   | 1                          |
+| 26/04/2025  | 25                          | 0                               | 0                   | 1                          |
+| 27/04/2025  | 25                          | 0                               | 0                   | 0                          |
 
 
+### Sprint 3
+#### Gráfico de Progresso
+
+![Burndown Chart da Sprint 3](https://github.com/DREAM-TEAM-API/API-2025-1SEM/blob/main/media/burndown%20chart%203.jpg)
+
+*Figura 2: Evolução do progresso real vs. ideal durante a Sprint 2*
+
+**Sequência de Fibonacci**
++ Responsável: Dupla 1 (Brenda e João)
++ Tarefas:
+  - ✅ Implementar a lógica para calcular a sequência de Fibonacci. (Prioridade: Alta)
+  - ✅ Criar uma função para exibir a sequência de Fibonacci calculada. (Prioridade: Alta)
+  - ✅ Testar a função com diferentes entradas. (Prioridade: Média)
+  - ✅ Adicionar tratamento de erros para entradas inválidas. (Prioridade: Média)
+  - ✅ Documentar a função no manual do usuário. (Prioridade: Baixa)
+
+  **Sequência de Tribonacci**
++ Responsável: Dupla 2 (Samuel e Sara)
++ Tarefas:
+  - ✅ Implementar a lógica para calcular a sequência de Tribonacci. (Prioridade: Alta)
+  - ✅ Criar uma função para exibir a sequência de Tribonacci calculada. (Prioridade: Alta)
+  - ✅ Testar a função com diferentes entradas. (Prioridade: Média)
+  - ✅ Adicionar tratamento de erros para entradas inválidas. (Prioridade: Média)
+  - ✅ Documentar a função no manual do usuário. (Prioridade: Baixa)
+
+**Sequência Geométrica**
++ Responsável: Dupla 3 (Ana e Leonardo)
++ Tarefas:
+  - ✅ Definir a lógica da sequência geométrica. (Prioridade: Alta)
+  - ✅ Implementar a função para calcular a sequência geométrica. (Prioridade: Alta)
+  - ✅ Criar um loop para exibir a sequência até o n-ésimo termo. (Prioridade: Média)
+  - ✅ Testar a função com diferentes razões e termos iniciais. (Prioridade: Média)
+  - ✅ Documentar a função no manual do usuário. (Prioridade: Baixa)
+ 
+**Critérios Gerais de Aceitação**
++ ✔️ Sequências novas implementadas corretamente
++ ✔️ Código testado e com tratamento de erros
++ ✔️ Manual do usuário atualizado com exemplos e instruções
++ ✔️ Integração funcional com o menu principal
+
+**Acompanhamento das Tarefas Concluídas por Data e Duplas**
+
+| Data         | Dupla/Equipe       | Tarefas Concluídas |
+|--------------|--------------------|-------------------:|
+| 06/05/2025   | Dupla 2              |  1                 |
+| 07/05/2025   | Dupla 1              |  2                 |
+| 08/05/2025   | Dupla 3              |  1                 |
+| 09/05/2025   | Dupla 2 + Dupla 4    |  2                 |
+| 10/05/2025   | Dupla 3              |  1                 |
+| 11/05/2025   | Dupla 1 + Dupla 3    |  3                 |
+| 12/05/2025   | Dupla 4              |  2                 |
+| 13/05/2025   | Dupla 2 + Dupla 3    |  2                 |
+| 14/05/2025   | Dupla 3              |  2                 |
+| 15/05/2025   | Dupla 4              |  2                 |
+| 16/05/2025   | Dupla 2              |  1                 |
+| 17/05/2025   | Dupla 1              |  2                 |
+| 18/05/2025   | Dupla 3              |  2                 |
+| 19/05/2025   | Dupla 4              |  1                 |
+| 20/05/2025   | Dupla Equipe completa| 1                  |
+
+### **Tabela de Burndown – Sprint 3**
+
+| Data         | Tarefas Planejadas | Tarefas Restantes | Tarefas Concluídas | Ideal (Restantes) |
+|--------------|--------------------|-------------------|--------------------|--------------------|
+| 05/05/2025   | 25                 | 25                | 0                  | 25                 |
+| 06/05/2025   | 25                 | 24                | 1                  | 23                 |
+| 07/05/2025   | 25                 | 22                | 2                  | 21                 |
+| 08/05/2025   | 25                 | 21                | 1                  | 19                 |
+| 09/05/2025   | 25                 | 19                | 2                  | 17                 |
+| 10/05/2025   | 25                 | 18                | 1                  | 15                 |
+| 11/05/2025   | 25                 | 15                | 3                  | 13                 |
+| 12/05/2025   | 25                 | 13                | 2                  | 11                 |
+| 13/05/2025   | 25                 | 11                | 2                  | 9                  |
+| 14/05/2025   | 25                 | 9                 | 2                  | 7                  |
+| 15/05/2025   | 25                 | 7                 | 2                  | 5                  |
+| 16/05/2025   | 25                 | 6                 | 1                  | 3                  |
+| 17/05/2025   | 25                 | 4                 | 2                  | 1                  |
+| 18/05/2025   | 25                 | 2                 | 2                  | 0                  |
+| 19/05/2025   | 25                 | 1                 | 1                  | 0                  |
+| 20/05/2025   | 25                 | 0                 | 1                  | 0                  |
+| 21/05/2025   | 25                 | 0                 | 0                  | 0                  |
+| 22/05/2025   | 25                 | 0                 | 0                  | 0                  |
+| 23/05/2025   | 25                 | 0                 | 0                  | 0                  |
+| 24/05/2025   | 25                 | 0                 | 0                  | 0                  |
+| 25/05/2025   | 25                 | 0                 | 0                  | 0                  |
